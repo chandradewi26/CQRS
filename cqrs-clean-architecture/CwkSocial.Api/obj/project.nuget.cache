@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "obkdNCOcZPS4sP9EKsY50cJA5xK2HbMDKekBN15dYDtVRZA1tct4vlgUQKDWgO31gx6JbX1QXTR8049eG78G3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NanaMocchy\\Chandradewi2691\\CQRS and Clean Architecture\\cqrs-clean-architecture\\CwkSocial.Api\\CwkSocial.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NanaMocchy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\NanaMocchy\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\NanaMocchy\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\NanaMocchy\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\NanaMocchy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\NanaMocchy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

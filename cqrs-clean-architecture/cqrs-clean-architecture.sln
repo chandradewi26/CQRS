@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CwkSocial.Api", "CwkSocial.Api\CwkSocial.Api.csproj", "{C35BACA2-59A0-4B9B-ACEC-1A8F5D8BA334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cwk.Domain", "Cwk.Domain\Cwk.Domain.csproj", "{50634E9A-668C-4F89-B6B3-8AF2C923AC54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C35BACA2-59A0-4B9B-ACEC-1A8F5D8BA334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35BACA2-59A0-4B9B-ACEC-1A8F5D8BA334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35BACA2-59A0-4B9B-ACEC-1A8F5D8BA334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35BACA2-59A0-4B9B-ACEC-1A8F5D8BA334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50634E9A-668C-4F89-B6B3-8AF2C923AC54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50634E9A-668C-4F89-B6B3-8AF2C923AC54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50634E9A-668C-4F89-B6B3-8AF2C923AC54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50634E9A-668C-4F89-B6B3-8AF2C923AC54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33BB521C-09C2-417B-BBD2-AF822290BA94}
+	EndGlobalSection
+EndGlobal
